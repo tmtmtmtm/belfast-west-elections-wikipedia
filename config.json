@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Belfast_West_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751608",
+    "start": "1922",
+    "end": "9999"
+  }, {
+    "id": "Q43022233",
+    "start": "1885",
+    "end": "1918"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
